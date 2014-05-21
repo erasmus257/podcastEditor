@@ -1,0 +1,9 @@
+﻿<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel mediatype="podvideo" playercontrolbar="over" playerplaylist="none" playericons="false" playerautostart="true" playerwidth="640" playerheight="480" playlistsize="160" playerskin="default">
+    <title>Nouveau media</title>
+    <link>http://inwicast.com</link>
+    <item>
+      <media:content url="../MEDIA120424160325453/multimedia/MEDIA120424160325453.flv" start="0" />
+    </item>
+  </channel>
+</rss>

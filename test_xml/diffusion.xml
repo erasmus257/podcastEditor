@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<presentation application="publisher live" user="umlv" label="Nouveau media" startpos="0" description="" tags="" capture="podvideo" module="" videoformats="flv;" framerate="20" bitrate="800" preview="preview.jpg" encoder="flashmediaencoder" uploadfullvideo="true" uploaded="true" converted="true" originalconverted="false" playercontrolbar="over" playerplaylist="none" playericons="false" playerautostart="true" playerwidth="640" playerheight="480" playlistsize="160" playerskin="default" playerlogo="">
+  <sequences>
+    <sequence file="MEDIA120424160325453.flv" image="MEDIA120424160325453.jpg" start="00:00:00.000" dur="01:48:04.828" slide="0" slideimage="" slidepreview="" record="MEDIA120424160325453.flv" video="MEDIA120424160325453.flv" description="" link="" keywords="" converted="true" uploaded="false" replaced="false" videoupdated="false" imageupdated="false" hidden="false" />
+  </sequences>
+</presentation>
